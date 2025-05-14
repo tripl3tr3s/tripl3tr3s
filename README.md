@@ -1,16 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Triple Tres
 ===================================================================================================================================
 
-Web3 Researcher / Graphic Designer-Illustrator / Tattooer
+Web3 Researcher Analyst / Graphic Designer-Illustrator / Tattooer
 ---------------------------------------------------------
 
-Crazy right? For the last 12 years after graduating from U.A.A. I have been experimenting with my most artistic and creative side, but since 2020 when I finally Orange pilled myself, I have been gradually changing careers, now leaving tattooing as my own part-time business that grants me the freedom to exploit my curious and creative side within Web3, creating deep research documents for unbiased content creation, (docs which soon I intend to translate and shorten into valuable articles and charts for the Latam community), as well as developing cool graphics and onboarding newcomers to this exciting crypto world. Nowadays, I'm starting to create a personal brand within the crypto space and at the same time working as a researcher / project analyst within Web3, for Coinsider and building a global community as a core contributor in Retail DAO a project focused on decentralizing collective alpha knowledge to improve our investment strategies. 🚀
+I began my journey as a visual designer and have since expanded my expertise to encompass a blend of roles, from Crypto Research to Data Analysis (SQL/pandas/ggplot2 entry-to-mid level). Previously tattooing and designing, I now focus on the intersection of data, design and technology, particularly in the realm of blockchain.
+
+Authored 20+ in-depth research briefs (~50 pages each), blending thematic storytelling with hardcore crypto analysis, fueling videos racking up thousands of views. From 2020 to this date, I laid the groundwork for a seamless pivot into professional crypto research and community building. 🚀
 
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [Google docs, for now. This is one of my latest deep research docs.]([http://docs.google.com/document/d/1qk9uOSi5DvZL6rW4BIt1h7lOlumhbz2GKQLpP7TXy6U/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vQN6k3vqjq8jraYzvwWvHgr7vMSkOC-sLxIUuUpob-u8k6r1pHAQDFvkV2VuAWQEFCWkkJ1BFYErfVc/pub))
-* ✉️  You can contact me at [tripl3tr3s@gmail.com](mailto:tripl3tr3s@gmail.com)
+* 🖥️  See my portfolio at [researchooor.quest](https://researchooor.quest)
+* ✉️  You can contact me at [tripl3tr3s@gmail.com](mailto:contact@researchooor.xyz)
 * 🚀  I'm currently working on [Retail DAO](http://retaildao.xyz)
-* 🧠  I'm learning SQL, Bash Shell, Linux servers administration, and Git & Github
+* 🧠  I'm learning SQL, Python/Pandas, R/ggplot2, Tableau, Power BI, and crypto data visualizations.
 * 🤝  I'm open to collaborating on any project who is aligned to the core values of Decentralization, Financial Sovereignty, Censorship Resistance, Transparency and Openness, Permisionless Innovation, Privacy and Global Accessibility.
 
 <a href="https://www.x.com/@TripleeeTres" target="_blank" rel="noreferrer"><img
