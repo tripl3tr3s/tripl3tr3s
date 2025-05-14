@@ -10,7 +10,7 @@ Authored 20+ in-depth research briefs (~50 pages each), blending thematic storyt
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [researchooor.quest](https://researchooor.quest)
-* ✉️  You can contact me at [tripl3tr3s@gmail.com](mailto:contact@researchooor.xyz)
+* ✉️  You can contact me at [contact.researchooor.xyz](mailto:contact@researchooor.xyz)
 * 🚀  I'm currently working on [Retail DAO](http://retaildao.xyz)
 * 🧠  I'm learning SQL, Python/Pandas, R/ggplot2, Tableau, Power BI, and crypto data visualizations.
 * 🤝  I'm open to collaborating on any project who is aligned to the core values of Decentralization, Financial Sovereignty, Censorship Resistance, Transparency and Openness, Permisionless Innovation, Privacy and Global Accessibility.
