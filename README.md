@@ -98,10 +98,9 @@ I'm a creative crypto researcher and developer based in **Mexico**, crafting com
 
 ### 🏆 Recent Projects & Research
 
-#### **🏛️ Retail DAO Technical Infrastructure** 
-- **[RetailDAO Organization](https://github.com/RetailDAO)** - Complete GitHub organization built from scratch with 7 specialized repositories
-- **Smart Contract Security Audit** - Comprehensive ecosystem review with critical issue resolution
-- **Full-Stack Dashboard-Terminal** - Advanced governance and analytics platform (in development)
+#### **🏛️ Retail DAO Ecosystem** 
+- **[RetailDAO Organization](https://github.com/RetailDAO)** - Complete DAO GitHub infrastructure with 7 specialized repositories
+- **Audit on Smart Contract Ecosystem** - Governance tokens, DAO contracts, and multisigs on Base Network
 
 #### **Featured Projects**
 - **🔬 Crypto/TradFi Analytics Terminal** - Advanced data visualization dashboard
