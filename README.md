@@ -15,7 +15,7 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 - 🌍 Based in Mexico
 - 🖥️ Portfolio: [researchooor.quest](https://researchooor.quest)
 - ✉️ Contact: [contact@researchooor.xyz](mailto:contact@researchooor.xyz)
-- 🚀 Currently building: [DISAI_Conta](https://researchooor.quest) — AI-first SAT/CFDI tax compliance platform for Mexican SMEs
+- 🚀 Currently building: DISAI_Conta — AI-first SAT/CFDI tax compliance platform for Mexican SMEs
 - 🏆 n8n Certified Automation Specialist (Self-Hosted for Enterprises)
 - 📊 **20+ Crypto Research Briefs** (~50 pages each) published, generating thousands of views
 - 🤝 Open to collaborating on AI automation, n8n workflows, MCP integrations, and Web3 projects
@@ -159,9 +159,9 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 
 #### **AI & Automation**
 
-- **[SAT-MCP](https://researchooor.quest)** — MCP server for Mexican tax compliance (CFDI 4.0). Automates invoicing, validation, and stamping. Supports 5 PACs. _(TypeScript, MCP SDK, SQLite/PostgreSQL)_
-- **[n8n Freelancer Starter](https://researchooor.quest)** — Ready-to-deploy self-hosted n8n template for $3–5/month on Railway, replacing Zapier-tier SaaS. Handles 10 workflows + 1K executions/day.
-- **[DISAI_Conta](https://researchooor.quest)** — AI-first SaaS platform for SAT compliance. React frontend + n8n automation + MCP backend. _(In progress)_
+- **SAT-MCP** — MCP server for Mexican tax compliance (CFDI 4.0). Automates invoicing, validation, and stamping. Supports 5 PACs. _(TypeScript, MCP SDK, SQLite/PostgreSQL)_
+- **[n8n Freelancer Starter](https://github.com/tripl3tr3s/n8n-freelancer-starter.git)** — Ready-to-deploy self-hosted n8n template for $3–5/month on Railway. Handles 10 workflows + 1K executions/day.
+- **DISAI_Conta** — AI-first SaaS platform for SAT compliance. React frontend + n8n automation + MCP backend. _(In progress)_
 
 #### **Development**
 
