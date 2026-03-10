@@ -33,7 +33,7 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" /></a>
 <a href="https://gemini.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Gemini" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face" /></a>
-![MCP](https://img.shields.io/badge/MCP-Protocol-orange?style=flat-square&logo=anthropic)
+<a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/MCP-Protocol-orange?style=flat-square&logo=anthropic" height="36" alt="MCP" /></a>
 </p>
 
 > **MCP Specialist** — server & client implementation, tool orchestration, multi-agent pipelines
