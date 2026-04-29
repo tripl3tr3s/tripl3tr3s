@@ -13,8 +13,8 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 **From Ink to Code to AI:** Started as a visual designer and tattoo artist, mastered precision and pattern recognition, then spent years authoring 20+ deep-dive technical research reports (50+ pages each) analyzing complex decentralized systems. That analytical rigor is now applied to building AI automation infrastructure.
 
 - 🌍 Based in Mexico
-- 🖥️ Portfolio: [researchooor.quest](https://researchooor.quest)
-- ✉️ Contact: [contact@researchooor.xyz](mailto:contact@researchooor.xyz)
+- 🖥️ Portfolio: [tripl3.dev](https://tripl3.dev)
+- ✉️ Contact: [hola@tripl3.dev](mailto:hola@tripl3.dev)
 - 🚀 Currently building: DISAI_Conta — AI-first SAT/CFDI tax compliance platform for Mexican SMEs
 - 🏆 n8n Certified Automation Specialist (Self-Hosted for Enterprises)
 - 📊 **20+ Crypto Research Briefs** (~50 pages each) published, generating thousands of views
@@ -207,7 +207,7 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 
 ### 💡 Philosophy
 
-> "From visual design to blockchain analysis, to AI automation — every skill builds upon the last. **Pattern recognition transcends mediums.**"
+> "From visual design to blockchain analysis, to AI Architecting — every skill builds upon the last. **Pattern recognition transcends mediums.**"
 
 **Core Values:** Decentralization • Financial Sovereignty • Transparency • Permissionless Innovation • Privacy • Global Accessibility
 
