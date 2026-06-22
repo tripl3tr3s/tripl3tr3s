@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Triple Tres
 
-## AI Automation Consultant | n8n Specialist | Solutions Architect
+## Self-Taught AI Engineer | Systems Thinker | Automation & n8n Specialist
 
 Building intelligent automation systems that turn manual bottlenecks into streamlined, self-running workflows. **Insight over noise, patterns over guesswork, clarity over complexity.**
 
@@ -8,9 +8,9 @@ Building intelligent automation systems that turn manual bottlenecks into stream
 
 ### About Me
 
-I'm an n8n-certified automation specialist and AI solutions architect based in **Mexico**, helping PyMEs break free from manual work through practical AI workflows that deliver real ROI.
+I'm a self-taught AI engineer and n8n-certified automation specialist based in **Mexico**, helping PyMEs break free from manual work through practical AI workflows that deliver real ROI. **I think in systems.**
 
-**From Ink to Code to AI:** Started as a visual designer and tattoo artist, mastered precision and pattern recognition, then spent years authoring 20+ deep-dive technical research reports (50+ pages each) analyzing complex decentralized systems. That analytical rigor is now applied to building AI automation infrastructure.
+**From Ink to Code to AI:** I hold a bachelor's degree in graphic design and have run my own tattoo studio for 13+ years — a craft that hard-wired precision and pattern recognition into everything I build. From there I spent years authoring 20+ deep-dive technical research reports (50+ pages each) dissecting complex decentralized systems, building things end to end long before "vibecoding" was a thing. **If I can understand delta-hedged tokenized protocols, I can definitely understand your business.** That same rigor now goes into building AI automation infrastructure.
 
 - 🌍 Based in Mexico
 - 🖥️ Portfolio: [tripl3.dev](https://tripl3.dev)
