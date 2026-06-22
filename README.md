@@ -24,19 +24,31 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 
 ### 🛠️ Tech Stack
 
-#### **AI & Automation**
+#### **AI Engineering & Agents**
 
 <p align="left">
+<a href="https://www.anthropic.com/" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/000000" width="36" height="36" alt="Anthropic / Claude" /></a>
+<a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/MCP-Protocol-orange?style=flat-square&logo=anthropic" height="36" alt="MCP" /></a>
+<a href="https://mastra.ai/" target="_blank"><img src="https://avatars.githubusercontent.com/u/149120496?s=200" width="36" height="36" alt="Mastra" /></a>
+<a href="https://sdk.vercel.ai/" target="_blank"><img src="https://cdn.simpleicons.org/vercel/000000" width="36" height="36" alt="Vercel AI SDK" /></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" /></a>
 <a href="https://n8n.io/" target="_blank"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36" alt="n8n" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.anthropic.com/" target="_blank"><img src="https://cdn.simpleicons.org/anthropic/000000" width="36" height="36" alt="Anthropic / Claude" /></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="36" height="36" alt="LangChain" /></a>
 <a href="https://gemini.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Gemini" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="36" height="36" alt="Hugging Face" /></a>
-<a href="https://modelcontextprotocol.io/" target="_blank"><img src="https://img.shields.io/badge/MCP-Protocol-orange?style=flat-square&logo=anthropic" height="36" alt="MCP" /></a>
 </p>
 
-> **MCP Specialist** — server & client implementation, tool orchestration, multi-agent pipelines
+> **MCP Specialist** — server & client implementation, tool orchestration, multi-agent pipelines with Mastra and the Vercel AI SDK
+
+#### **Observability & Analytics**
+
+<p align="left">
+<a href="https://langfuse.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/134601687?s=200" width="36" height="36" alt="Langfuse" /></a>
+<a href="https://sentry.io/" target="_blank"><img src="https://cdn.simpleicons.org/sentry/362D59" width="36" height="36" alt="Sentry" /></a>
+<a href="https://umami.is/" target="_blank"><img src="https://cdn.simpleicons.org/umami/000000" width="36" height="36" alt="Umami" /></a>
+</p>
+
+> **LLM tracing & evals with Langfuse** — prompt/version tracking, dataset scoring, and session-level cost monitoring; error tracking via Sentry, privacy-first product analytics via Umami
 
 #### **Frontend Development**
 
@@ -45,6 +57,9 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJS" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://ui.shadcn.com/" target="_blank"><img src="https://cdn.simpleicons.org/shadcnui/000000" width="36" height="36" alt="shadcn/ui" /></a>
+<a href="https://tanstack.com/query" target="_blank"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="36" height="36" alt="TanStack Query" /></a>
+<a href="https://zod.dev/" target="_blank"><img src="https://cdn.simpleicons.org/zod/3E67B1" width="36" height="36" alt="Zod" /></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -55,8 +70,11 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 <p align="left">
 <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://cdn.simpleicons.org/sqlite/003B57" width="36" height="36" alt="SQLite" /></a>
 <a href="https://redis.io/" target="_blank"><img src="https://cdn.simpleicons.org/redis/DC382D" width="36" height="36" alt="Redis" /></a>
 <a href="https://vitest.dev/" target="_blank"><img src="https://cdn.simpleicons.org/vitest/6E9F18" width="36" height="36" alt="Vitest" /></a>
+<a href="https://playwright.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" /></a>
+<a href="https://pnpm.io/" target="_blank"><img src="https://cdn.simpleicons.org/pnpm/F69220" width="36" height="36" alt="pnpm" /></a>
 <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
 <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="36" height="36" alt="NumPy" /></a>
 </p>
@@ -67,7 +85,6 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 <a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="36" height="36" alt="Matplotlib" /></a>
 <a href="https://recharts.org/" target="_blank"><img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="36" height="36" alt="Recharts" /></a>
 <a href="https://docusaurus.io/" target="_blank"><img src="https://cdn.simpleicons.org/docusaurus/3ECC5F" width="36" height="36" alt="Docusaurus" /></a>
-<a href="https://umami.is/" target="_blank"><img src="https://cdn.simpleicons.org/umami/000000" width="36" height="36" alt="Umami" /></a>
 </p>
 
 #### **Infrastructure & Self-Hosting**
@@ -78,6 +95,7 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="36" height="36" alt="Kubernetes" /></a>
 <a href="https://coolify.io/" target="_blank"><img src="https://cdn.simpleicons.org/coolify/6B48FF" width="36" height="36" alt="Coolify" /></a>
+<a href="https://railway.com/" target="_blank"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="36" height="36" alt="Railway" /></a>
 <a href="https://gitea.io/" target="_blank"><img src="https://cdn.simpleicons.org/gitea/609926" width="36" height="36" alt="Gitea" /></a>
 </p>
 
@@ -209,7 +227,7 @@ I'm an n8n-certified automation specialist and AI solutions architect based in *
 
 > "From visual design to blockchain analysis, to AI Architecting — every skill builds upon the last. **Pattern recognition transcends mediums.**"
 
-**Core Values:** Decentralization • Financial Sovereignty • Transparency • Permissionless Innovation • Privacy • Global Accessibility
+**Engineering Principles:** Reliability & Observability • Evaluation Over Assumption • Pragmatism Over Hype
 
 ---
 
