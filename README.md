@@ -14,7 +14,7 @@ I build the unglamorous parts that make AI agents trustworthy in production: MCP
 
 **DISAI-Conta.** AI-native fiscal platform built on SAT-MCP, live in private beta at [disai.mx](https://disai.mx). A Haiku router classifies 10 fiscal domains in about 100ms, Sonnet domain agents run native `tool_use` loops with self-correction, and an Expert Registry injects SAT catalog resources into context before the first call, removing an entire class of hallucinated catalog codes without RAG overhead. Langfuse traces everything; a HITL dashboard gates irreversible operations. _(Next.js 16, Anthropic SDK, SSE streaming)_
 
-**[Crypto/TradFi Analytics Terminal](https://github.com/RetailDAO/website).** Real-time dashboard over dual WebSockets: Node.js backend, Redis caching, circuit breakers, and graceful degradation. [Live demo](https://retaildao-terminal.vercel.app/).
+**[Crypto/TradFi Analytics Terminal](https://github.com/RetailDAO/website).** Real-time dashboard over dual WebSockets: Node.js backend, Redis caching, circuit breakers, and graceful degradation. (Live demo Archived)
 
 **[n8n Freelancer Starter](https://github.com/tripl3tr3s/n8n-freelancer-starter).** One-click Railway template for production-configured self-hosted n8n. Replaces a $20 to $30 per month Zapier/Make dependency for small teams.
 
