@@ -53,4 +53,4 @@ Full credential history on [LinkedIn](https://www.linkedin.com/in/tripl3tr3s).
 
 Before AI engineering: 13 years running a tattoo studio and working as a graphic designer, then two years writing deep technical research on protocol architecture and market microstructure ([research archive](https://tripl3.dev/#projects)). Precision, pattern recognition, and reading unfamiliar systems fast. The same rigor now goes into AI infrastructure.
 
-> Reliability and observability · Evaluation over assumption · Pragmatism over hype Reliability and observability · Evaluation over assumption · Pragmatism over hype
+> Reliability and observability · Evaluation over assumption · Pragmatism over hype
