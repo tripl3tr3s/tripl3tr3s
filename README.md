@@ -74,5 +74,5 @@ Before AI engineering: 13 years running a tattoo studio and working as a graphic
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tripl3tr3s&style=flat-square&color=black" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tripl3tr3s&style=flat-square&color=fe428e" alt="Profile views" />
 </p>
